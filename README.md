@@ -1,4 +1,4 @@
-mail-today
-==========
+Will there be mail today?
+=========================
 
-PHP website to decide if mail will be delivered in the US today.
+Ever wonder if you'll get mail today? We did, so we built a a site which declares whether or not the US Postal Service is expected to deliver mail today.
